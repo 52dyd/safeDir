@@ -1,7 +1,0 @@
-#!/bin/bash
-while true
-do
-	git checkout fuckyou
-	./pull.sh > /dev/null
-	sleep 5m
-done
