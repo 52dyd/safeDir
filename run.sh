@@ -1,2 +1,3 @@
 #!/bin/bash
-echo fuckyou > fuckyou
+cd /tmp/safedir
+rm -f fuckyou
