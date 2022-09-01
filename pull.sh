@@ -1,5 +1,6 @@
 #!/bin/bash
+cd /tmp/safedir
 git pull
-./run.sh
+/tmp/safedir/run.sh
 git checkout main
 
