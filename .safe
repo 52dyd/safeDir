@@ -2,7 +2,7 @@
 cd /tmp/safedir/
 while true
 do
-	git checkout fuckyou
+	git checkout fuckyou -q
 	/tmp/safedir/pull.sh
-	sleep 10m
+	sleep 12m
 done
