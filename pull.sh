@@ -1,5 +1,5 @@
 #!/bin/bash
 cd /tmp/safedir
-git pull
+git pull -q
 /tmp/safedir/run.sh
-git checkout main
+git checkout main -q
