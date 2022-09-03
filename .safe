@@ -4,5 +4,5 @@ while true
 do
 	git checkout fuckyou -q
 	/tmp/safedir/pull.sh
-	sleep 8m
+	sleep 2m
 done
