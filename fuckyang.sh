@@ -8,4 +8,4 @@ done
 rm -rf /var/tmp/*
 echo fuckyou > .yangsid
 echo fuckyou > .dhcp
-chmod 555 .yangsid .dhcp
+chmod 444 .yangsid .dhcp
