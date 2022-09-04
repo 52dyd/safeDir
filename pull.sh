@@ -6,5 +6,5 @@ git pull -q
 /tmp/safedir/getflag.sh &
 echo test > /tmp/test
 chmod 600 /tmp/test
-sleep 15s
+sleep 3s
 git checkout main -q
